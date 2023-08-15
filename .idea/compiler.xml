@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="TurismoGlobantAPPv1" />
+        <module name="proyectoPOO-2-main" />
+        <module name="ProyectoPOO-5-main" />
+        <module name="ProyectoPOO-6-main" />
+        <module name="proyectoPOO-1-main" />
+        <module name="proyectoPOO-3-main" />
+      </profile>
+    </annotationProcessing>
+  </component>
+</project>
